@@ -1,2 +1,2 @@
-1.0.3
-Add update checker.
+1.0.4
+Fix craft crash.
