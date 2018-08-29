@@ -1,2 +1,2 @@
-1.0.6
-Try fix #5.
+1.0.7
+Fix recipe crash. Simple change updater.
