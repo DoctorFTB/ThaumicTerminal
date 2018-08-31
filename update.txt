@@ -1,2 +1,2 @@
-1.0.7
-Fix recipe crash. Simple change updater.
+1.0.8
+Thaumic JEI integration!
