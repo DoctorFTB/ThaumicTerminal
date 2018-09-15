@@ -1,2 +1,2 @@
-1.0.8
-Thaumic JEI integration!
+1.0.9
+Try fix #10.
