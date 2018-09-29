@@ -1,2 +1,2 @@
-1.0.9
-Try fix #10.
+1.0.10
+Fix #12. Fix #13. Add shift click support. Add crystal visibility support.
