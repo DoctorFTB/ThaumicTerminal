@@ -1,2 +1,2 @@
-1.0.11
-Fix bug with Craft Tweaker. Fix bug with a lot of oreDict items.
+1.0.12
+Fix bug with Craft Tweaker. Fix bug with a lot of oreDict items. Fix bug with crafting results.
